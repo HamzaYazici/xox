@@ -1,4 +1,4 @@
-XOX Game Product
+# XOX Game Project
 
 This project developed with React.js
 
